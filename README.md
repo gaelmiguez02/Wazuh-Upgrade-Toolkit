@@ -5,7 +5,7 @@ This script automates the upgrade process for Wazuh components including the Waz
 ## Usage
 
 1. Clone or download the repository.
-2. Ensure you meet the requirements listed in [requirements.txt](requirements.txt).
+2. Ensure you meet the requirements listed in [requirements.txt](requeriments.txt).
 3. Modify the script.sh file if necessary, providing required parameters.
 4. Run the script: `./script.sh`.
 
