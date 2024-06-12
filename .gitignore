@@ -1,0 +1,26 @@
+# Ignore compiled binaries
+*.o
+*.out
+*.exe
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Ignore virtual environment
+venv/
+
+# Ignore system-specific files
+.idea/
+.vscode/
+
+# Ignore package files
+*.tar.gz
+*.zip
+
+# Ignore user-specific files
+.history/
+.bash_history
+

@@ -1,0 +1,15 @@
+# System packages
+- curl
+- rpm
+- systemctl
+- awk
+
+# Wazuh-related dependencies
+- wazuh-manager
+- wazuh-indexer
+- wazuh-dashboard
+- filebeat
+
+# Other dependencies
+- sudo (if not already installed)
+
